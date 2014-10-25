@@ -1,0 +1,9 @@
+body{
+	background-color: #fcfcfc;
+	color:535a5e;
+	width:1400px;
+	font:15px/1.3 "Bodo",Arial,sans-serif;
+}
+.header-top{
+	background-image: url ("img/header.jpg");
+   }
